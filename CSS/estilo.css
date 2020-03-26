@@ -1,0 +1,113 @@
+.imagen{
+    position: fixed;
+    right: 550px;
+    top: 250px;
+    width: 800px;
+    height: 500px;
+
+}
+
+.imagen1{
+    position: fixed;
+    right: 130px;
+    top: 250px;
+    width: 800px;
+    height: 500px;
+
+}
+
+.imagen2{
+    position: fixed;
+    right: -250px;
+    top: 250px;
+    width: 800px;
+    height: 500px;
+
+}
+.imagen3{
+    position: fixed;
+    right: -250px;
+    top: 500px;
+    width: 800px;
+    height: 500px;
+
+}
+.imagen4{
+    position: fixed;
+    right: 130px;
+    top: 500px;
+    width: 800px;
+    height: 500px;
+
+}
+.imagen5{
+    position: fixed;
+    right: 550px;
+    top: 500px;
+    width: 800px;
+    height: 500px;
+
+}
+
+.texto{
+    position: fixed;
+    right: 475px;
+    top: 425px;
+    width: 800px;
+    height: 500px;
+}
+.texto1{
+    position: fixed;
+    right: 100px;
+    top: 425px;
+    width: 800px;
+    height: 500px;
+}
+
+.texto2{
+    position: fixed;
+    right: -270px;
+    top: 425px;
+    width: 800px;
+    height: 500px;
+}
+
+.texto3{
+    position: fixed;
+    right: -250px;
+    top: 675px;
+    width: 800px;
+    height: 500px;
+}
+
+.texto4{
+    position: fixed;
+    right: 110px;
+    top: 660px;
+    width: 800px;
+    height: 500px;
+}
+.texto5{
+    position: fixed;
+    right: 550px;
+    top: 675px;
+    width: 800px;
+    height: 500px;
+}
+
+.titular{
+    position: fixed;
+    right: 325px;
+    top: 125px;
+    width: 800px;
+    height: 500px;
+
+}
+.boton{
+    position: fixed;
+    right: -600px;
+    top: 10px;
+    width: 800px;
+    height: 500px;
+
+}
